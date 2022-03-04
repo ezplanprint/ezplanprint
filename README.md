@@ -1,4 +1,4 @@
-### Hi there 👋
+This repository has a generic plan printing script using ESAPI. This is a part of the manuscript under review in the JACMP, and it will be released after the review finishes. Thank you for your patience.
 
 <!--
 **ezplanprint/ezplanprint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
